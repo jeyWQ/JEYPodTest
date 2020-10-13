@@ -1,0 +1,6 @@
+framework module Pods_JEYPodTest_Tests {
+  umbrella header "Pods-JEYPodTest_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

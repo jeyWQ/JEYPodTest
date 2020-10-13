@@ -1,0 +1,16 @@
+PODS:
+  - JEYPodTest (0.1.0)
+
+DEPENDENCIES:
+  - JEYPodTest (from `../`)
+
+EXTERNAL SOURCES:
+  JEYPodTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JEYPodTest: 270c9abbc037b43e4f08cd793e85e3b45789ab00
+
+PODFILE CHECKSUM: b5dd017d16b35c931498475befe44a42fb5de75f
+
+COCOAPODS: 1.9.1
